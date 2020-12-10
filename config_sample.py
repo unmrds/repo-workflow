@@ -1,4 +1,4 @@
-# create a file called secrets.py based on this template
+# create a file called config.py based on this template
 
 # Digital Commons
 dc_api_key = "something"
