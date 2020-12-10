@@ -1,5 +1,5 @@
 # local secrets
-secrets.py
+config.py
 
 # os specific files
 .DS_Store
